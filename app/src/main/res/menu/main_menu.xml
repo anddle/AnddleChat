@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:apps="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/connect_menu"
+        android:title="@string/connect"
+        apps:showAsAction="always"/>
+
+    <item android:id="@+id/about_menu"
+        android:title="@string/about"
+        apps:showAsAction="never"/>
+
+</menu>

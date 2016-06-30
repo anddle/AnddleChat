@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AnddleChat</string>
+
+    <string name="unknown">Unknown</string>
+    <string name="search">search</string>
+    <string name="cancel">Cancel</string>
+    <string name="send_fail">send fail</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="connect">Connect</string>
+    <string name="about">About</string>
+    <string name="enable_bt">Enable bluetooth first.</string>
+    <string name="verion_info">Version: %s \n Designer: Anddle</string>
+</resources>
